@@ -1,0 +1,10 @@
+def dungeonIntro():
+    print()
+    print("As your eyes adjust, you see that you are in a dungeon. The walls and floor are built of gray stone blocks.")
+    print("On the wall across from you, there is a lifeless skeleton hanging by shackles.")
+    print("On your right, you see a door made of bars with a thick lock securing it to the wall. There is a single guard sitting outside your room.")
+    print("On your left, you see a bed made of rotting hay.")
+    print("On the floor, you see some small rocks.")
+    print()
+    print("Type commands to begin.")
+    print()
